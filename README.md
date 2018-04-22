@@ -1,10 +1,10 @@
 # CVlab
 
 计算机视觉项目实践<br>
-一、ImageClassification<br><br>
-
-项目：猫狗分类<br>
-文件:DogCatClassification.ipny<br>
+    一、ImageClassification<br>
+    项目：猫狗分类<br>
+文件:DogCatClassification.ipynb<br>
+环境：TensorFlow 1.1 Python3
 网络结构：CNN==卷积+池化+卷积+池化+FC+FC+FC<br>
 
 数据集:来源于Kaggle，12500只猫和12500只狗<br>
