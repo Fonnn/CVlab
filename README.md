@@ -6,7 +6,7 @@
 文件:DogCatClassification.ipynb<br>
 环境：TensorFlow 1.1 Python3 <br>
 网络结构：CNN==卷积+池化+卷积+池化+FC+FC+FC<br>
-#####测试
+#测试
 
 数据集:来源于Kaggle，12500只猫和12500只狗<br>
 数据集下载：https://www.kaggle.com/c/dogs-vs-cats <br>
