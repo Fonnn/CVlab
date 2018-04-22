@@ -1,10 +1,10 @@
 # CVlab
 
 计算机视觉项目实践
-一、ImageClassification
+一、ImageClassification<br>
 
-项目：猫狗分类
-文件:DogCatClassification.ipny
+项目：猫狗分类<br>
+文件:DogCatClassification.ipny<br>
 网络结构：CNN==卷积+池化+卷积+池化+FC+FC+FC
 
 数据集:来源于Kaggle，12500只猫和12500只狗
