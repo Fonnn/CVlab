@@ -25,5 +25,5 @@
 文件：ObjectDetections <br>
 环境：TensorFlow 1.1 Python3 <br>
 权重文件：https://pan.baidu.com/s/1mhE0WL6 <br>
-测试数据：同参考github地址，也可使用自己的数据测试 <br>
+测试数据：同参考github地址中test_images，也可使用自己的数据测试 <br>
 参考Github:https://github.com/xiaohu2015/DeepLearning_tutorials/tree/master/ObjectDetections/yolo  <br>
